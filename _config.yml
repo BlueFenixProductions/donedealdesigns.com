@@ -9,7 +9,7 @@ author: Brian Dailey
 description: > # "Write an awesome description for your new site here. 
   Outdoor Designs
 copyright: 'Copyright &copy; 2020 Brian Dailey. All Rights Reserved.'
-credits: 'Maintained by [Blue Fenix Productions](https://bluefenix.net)'
+credits: 'Maintained by <a href="https://bluefenix.net">Blue Fenix Productions</a>'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
