@@ -1,1 +1,32 @@
-theme: jekyll-theme-midnight
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://donedealdesigns.com
+title: Done Deal Designs
+email: support@bluefenix.net
+author: Brian Dailey
+description: > # "Write an awesome description for your new site here. 
+  Outdoor Designs
+copyright: 'Copyright &copy; 2020 Brian Dailey. All Rights Reserved.'
+credits: 'Maintained by [Blue Fenix Productions](https://bluefenix.net)'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/bluefenixpro
+  - title: github
+    url: https://github.com/ChrisPelatari/donedealdesigns.com
+  - title: linkedin
+    url: 
