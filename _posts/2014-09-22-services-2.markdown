@@ -5,4 +5,4 @@ category: Services
 title: Your Oasis is waiting for you
 description: |
 ---
-  At Done Deal Designs, we help you create the Oasis that you have been dreaming of.
+  Let us help you create the Oasis that you have been dreaming of.
