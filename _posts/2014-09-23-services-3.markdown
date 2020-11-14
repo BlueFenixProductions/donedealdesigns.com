@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: technology.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 3D technology 
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+At  Done Deal Designs, we use the latest in 3D modeling technology to make your Dream a Reality.

@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: pool_designs.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Your Oasis is waiting for you
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  At Done Deal Designs, we help you create the Oasis that you have been dreaming of.
