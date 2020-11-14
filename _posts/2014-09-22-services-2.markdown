@@ -1,6 +1,6 @@
 ---
 layout: default
-img: pool_designs.png
+img: pool_designs.jpg
 category: Services
 title: Your Oasis is waiting for you
 description: |
